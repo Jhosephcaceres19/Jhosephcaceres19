@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Caceres Aramayo
 ============================================================================================================================================
 
-Developer web frontend
+frontend web developer
 ----------------------
 
 I am a frontend web developer specializing in building modern and efficient applications using React, Next.js, and Nest.js. My focus is on building engaging and functional user experiences, prioritizing accessibility and performance. I work with React and Next.js to develop dynamic and optimized interfaces, leveraging server-side rendering capabilities and static generation. On the backend, I use Nest.js to create scalable and secure architectures, ensuring that each project meets high standards of quality and privacy.
