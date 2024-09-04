@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer web frontend
 ----------------------
 
-Soy un desarrollador web frontend especializado en la creación de aplicaciones modernas y eficientes utilizando React, Next.js y Nest.js. Mi enfoque está en construir experiencias de usuario atractivas y funcionales, priorizando la accesibilidad y el rendimiento. Trabajo con React y Next.js para desarrollar interfaces dinámicas y optimizadas, aprovechando las capacidades de renderizado del lado del servidor y la generación estática. En el backend, utilizo Nest.js para crear arquitecturas escalables y seguras, asegurando que cada proyecto cumpla con altos estándares de calidad y privacidad.
+I am a frontend web developer specializing in building modern and efficient applications using React, Next.js, and Nest.js. My focus is on building engaging and functional user experiences, prioritizing accessibility and performance. I work with React and Next.js to develop dynamic and optimized interfaces, leveraging server-side rendering capabilities and static generation. On the backend, I use Nest.js to create scalable and secure architectures, ensuring that each project meets high standards of quality and privacy.
 
 * 🌍  I'm based in Bolivia
 * 🖥️  See my portfolio at [https://jhosephcaceres.vercel.app/](http://jhosephcaceres.vercel.app/)
